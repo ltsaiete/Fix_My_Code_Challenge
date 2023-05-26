@@ -3,7 +3,7 @@
   Print a square with the character #
 
   The size of the square must be the first argument
-    of the program.
+  of the program.
 */
 
 if (process.argv.length < 2) {
